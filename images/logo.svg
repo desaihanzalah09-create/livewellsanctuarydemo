@@ -1,0 +1,19 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" width="480" height="480">
+  <!-- Outer circle with thicker stroke -->
+  <circle cx="200" cy="200" r="175" fill="none" stroke="#d4b87a" stroke-width="28"/>
+
+  <!-- Decorative curved left element -->
+  <path d="M 150 130 Q 140 170 150 210 Q 160 250 170 290" fill="none" stroke="#d4b87a" stroke-width="16" stroke-linecap="round"/>
+
+  <!-- Decorative curved right element -->
+  <path d="M 250 130 Q 260 170 250 210 Q 240 250 230 290" fill="none" stroke="#d4b87a" stroke-width="16" stroke-linecap="round"/>
+
+  <!-- Center decorative circle at top -->
+  <circle cx="200" cy="100" r="16" fill="#d4b87a"/>
+
+  <!-- Y letter - positioned left -->
+  <text x="155" y="255" font-family="'Cinzel', Georgia, serif" font-size="90" font-weight="600" fill="#d4b87a" text-anchor="middle">Y</text>
+
+  <!-- M letter - positioned right -->
+  <text x="245" y="255" font-family="'Cinzel', Georgia, serif" font-size="90" font-weight="600" fill="#d4b87a" text-anchor="middle">M</text>
+</svg>
